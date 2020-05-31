@@ -1,3 +1,6 @@
+QTMA
+
+
 to configure mac vscode with git 
 
 https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git
